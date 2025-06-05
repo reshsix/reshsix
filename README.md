@@ -3,4 +3,5 @@
 
 ## Active Projects
 - ![A Cryptography Library for Maids](https://github.com/reshsix/libmaid)
+- ![MaidCard Noir](https://github.com/reshsix/noir)
 
