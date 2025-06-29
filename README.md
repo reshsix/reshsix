@@ -3,5 +3,6 @@
 
 ## Active Projects
 - ![A Cryptography Library for Maids](https://github.com/reshsix/libmaid)
+- ![An Ephemeris Library for Astrologists](https://github.com/reshsix/libmona)
 - ![MaidCard Noir](https://github.com/reshsix/noir)
 
