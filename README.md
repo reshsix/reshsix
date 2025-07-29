@@ -4,5 +4,5 @@
 ## Active Projects
 - ![Evil Maid of Babylon (Cryptography Library)](https://github.com/reshsix/libmaid)
 - ![Babalon Domus Aurea (Terminal Library)](https://github.com/reshsix/libdomus)
-- ![Ephemeris of the Moon Priestess](https://github.com/reshsix/libmona)
+- ![Ephemeris of the Moon](https://github.com/reshsix/libmona)
 
